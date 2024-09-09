@@ -180,3 +180,7 @@ if __name__ == '__main__':
 #    Even though it returned an IP Address.  Google Search showed known issue.
 #3.  I settled on quantl after trying data vendors.  quantl pulls data from NASDAQ.  Data is dated.
 #    Even Academic pricing is $300 per year.#zachlawrence_python.py
+
+#works cited
+#OpenAI. (2023). ChatGPT (Sept 8 version) [Large language model]. https://chat.openai.com/chat
+#Nasdaq. (n.d.). Quandl. Nasdaq. https://data.nasdaq.com/publishers/QDL
